@@ -1,1 +1,11 @@
-# azeddine
+numpy
+   scikit-learn
+   tensorflow
+   transformers
+   pandas
+   python-whois
+   aiohttp
+   nest-asyncio
+   flask
+nest-asyncio
+gunicorn
